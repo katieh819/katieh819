@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @katieh819
-- 👀 I’m interested in 
+- 👋 Hi, I’m Katie Herchenbach
 - 🌱 I’m currently learning Business Intelligence Analytics
 - 💞️ I’m looking to collaborate on potential employers and other analysts
-- 📫 How to reach me cell or email
-- 😄 Pronouns: she/her
+- 📫 Reach me via cell or email
 - ⚡ Fun fact: I became a mom in 2023
 
 <!---
